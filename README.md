@@ -1,3 +1,3 @@
 # ADDED new readme
 
-Just addition of file..
+Just addition of a new file..
